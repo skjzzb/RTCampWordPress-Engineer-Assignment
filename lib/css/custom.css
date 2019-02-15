@@ -1,0 +1,405 @@
+body{
+	font-family:Tahoma;
+}
+.simple-link,
+.simple-link:hover,
+.simple-link:focus,
+.simple-link:active,
+.simple-link:visited{
+	color:inherit;
+	text-decoration:none;
+	text-transform:none;
+}
+.site-header{
+	padding-top:10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-image: url(http://localhost/wpress/wp-content/uploads/2019/02/header-bg.jpg);
+	background-repeat: no-repeat;
+	width:  100%;
+	background-position: center;
+}
+/*main menu navigation home news etc.*/
+.main-navigation{
+	padding-top:25px;
+	display: inline;
+	margin:0 auto;
+}
+
+.main-navigation a{
+	color:#333;
+	font-size:15px;
+	text-transform:none;
+	text-decoration:none;
+	padding-right:30px;
+}
+.main-navigation a:hover{
+	color: #993408;
+}
+.menu-main_menu-container{
+	float:right;
+}
+/*child pages*/
+/*child pages*/
+.child-pages-box{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.child-pages-box-left{
+	padding:0;
+	background: #e1e1e1;
+	border-right:1px solid #c1c1c1;
+}
+.child-pages-box-left h1{
+	padding:5px 0px 5px 20px;
+	margin-top:20px;
+	text-transform:uppercase;
+	font-family:Georgia;
+	font-size:17px;
+	color:#993408;
+}
+.child-pages-box-left h1:hover,
+.child-pages-box-left h1:active{
+	color:#fff;
+	cursor:pointer;
+	background-image:url(http://localhost/wpress/wp-content/uploads/2019/02/brown-notch.png);
+	-webkit-clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 95% 100%, 0% 100%);
+	-moz-clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 95% 100%, 0% 100%);
+	clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 95% 100%, 0% 100%);
+	background-repeat:no-repeat;
+	background-position:120%;
+	background-color:#993408;
+	text-decoration:none;
+}
+.child-pages-box-right{
+	padding:20px;
+	float:left;
+}
+.child-pages-box-right img{
+	width:100%;
+	height:120px;
+}
+.featured-post-title{
+	font-family:Georgia;
+	font-size:15px;
+	font-weight:bold;
+	color:#000;
+}
+.post-excerpt{
+	font-size:13px;
+	color:#333;
+}
+.child-pages-content {
+	padding-top: 20px;
+	float: left;
+	width: 205px;
+}
+div.child-pages-content {
+	margin: 0;
+}
+.child-pages-content img {
+	max-width: 205px;
+	height: 101px;
+}
+
+/*Widget area*/
+
+.footer-widget-area
+{
+	background-color: #f8f8f8;
+	border-bottom: 1px solid lightgray;
+	border-top: 1px solid lightgray;
+	padding-top: 20px;
+
+}
+#widget_area h4{
+	font-size: 15px;
+	color: #888;
+	font-weight:bold;
+	text-transform:uppercase;
+
+}
+.dashed{
+	border-top:2px dashed #888;
+	padding:10px 0 10px 0;
+	background-color: #f8f8f8;
+
+}
+#security li{
+	list-style:none;
+}
+#security a{
+	font-size: 13px;
+	color:#888;
+}
+#security a:hover{
+	color: #993408;
+}
+#latest_news{
+	
+	
+	padding-top:1px;
+	margin:0;
+}
+#latest_news li{
+	
+	list-style:none;
+}
+#latest_news a{
+	background-position: left;
+	background-image: url(http://localhost/wpress/wp-content/uploads/2019/02/sidebar-bullet.jpg);
+	background-repeat: no-repeat;
+	padding-left: 10px;
+	font-size: 13px;
+	text-decoration: none;
+	text-align: left;
+	color:#888;
+
+}
+#latest_news a:hover{
+	color: #993408;
+}
+#recent_projects li,
+#recent_projects a,
+#recent_projects p
+{
+	margin:0;
+	text-decoration:none;
+	color:#888;
+	font-size:13px;
+}
+#recent_projects li:hover,
+#recent_projects a:hover,
+#recent_projects p:hover
+{
+	color:#993408;
+}
+
+#stay_in_touch li{
+	list-style:none;
+}
+#stay_in_touch a{
+	padding-left:10px;
+	padding-top:-5px;
+}
+#icon{
+	list-style:none;
+}
+#icon a{
+	text-transform:none;
+	text-decoration:none;
+	color:#888;
+}
+#icon a:hover{
+}
+#face a:hover{
+	color:
+}
+/*Widget area*/
+/*copyright text*/
+.copyright-text{
+	color: #999;
+	font-size:13px;
+	padding-left: 0;
+}
+.widget select {
+	width:50%;
+	max-width: 50%;
+}
+/**/
+.d-block{
+	width:100%;
+	height:350px;
+}
+.carousel-control-prev,
+.carousel-control-next{
+}
+.carousel-control-prev{
+	background-repeat:no-repeat;
+	left:95%;
+	top:10%;
+	width:18px;
+	height:18px;
+	opacity:1;
+	background-image:url(../image/slider-top-pagination-hov.png);
+}
+.carousel-control-next{
+	background-repeat:no-repeat;
+	width:18px;
+	height:18px;
+	top:85%;
+	left:95%;
+	opacity:1;
+	height:16px;
+	background-image:url(../image/slider-bottom-pagination-hov.png);
+}
+.carousel-indicators{
+	width:80px;
+	height:10px;
+	top:50%;
+	left:77%;
+	-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.carousel-indicators li{
+	background:#993408;
+	border-radius:50%;
+	max-width:10px;
+	height:10px;
+}
+.carousel-indicators li:active,
+.carousel-indicators li:hover,
+.carousel-indicators li:focus{
+	background:#fff;
+}
+.d-block{
+	border:1px solid #888;
+}
+.carousel-caption{
+	background:#000;
+	top:2%;
+	bottom:2%;
+	left:60%;
+	padding:0;
+	margin:0;
+	right:0.5%;
+	opacity:0.8;
+}
+.post_content{
+	font-size:14px;
+	text-align:left;
+	color:#ccc;
+}
+.post_title{
+	text-align:left;
+	font-family:Georgia;
+	color:#fff;
+	font-size:24px;
+}
+.cover{
+	padding:30px;
+	height:100%;
+	text-align:left;
+	margin-right:70px;
+	border-right:1px solid #fff;
+}
+.covercarousel{
+	padding:20px 0px 20px 0px;
+	background:#888;
+}
+.bottomMenu {
+	padding-left:0;
+	display: block;
+
+}
+.bottomMenu ul {
+	display:inline;
+	padding:0;
+}
+.bottomMenu li {
+	
+	 display: inline; 
+	 font-size: 14px;
+	 padding-bottom: 4px;
+}
+.bottomMenu li a {
+	color:#666;
+	
+	padding: 0 7px 0 3px;
+}
+.bottomMenu li a:hover {
+	color:#993408;
+	
+}
+
+
+.foo_area
+{
+	padding-top: 20px;
+	padding-bottom: 5px;
+   	margin:0;
+    background-image: url(http://localhost/wpress/wp-content/uploads/2019/02/footer-bg-1.jpg);
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center; 
+    
+    
+    
+}
+/* Style the tab */
+div.tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #e1e1e1;
+	width:100%;
+    height: 300px;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+	background:#e1e1e1;
+    display: block;
+    color: #993408;
+    padding: 5px 0 5px 20px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+	margin-top:10px;
+	border-radius:0;
+	font-size:17px;
+	text-transform:uppercase;
+	font-family:georgia;
+}
+div.tab button:hover,
+div.tab button.active {
+    background-color: #993408;
+	color:#fff;
+	-webkit-clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 95% 100%, 0% 100%);
+	-moz-clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 95% 100%, 0% 100%);
+	clip-path: polygon(0% 0%, 95% 0%, 100% 50%, 95% 100%, 0% 100%);
+}
+
+.tabcontent {
+    float: left;
+    border: 1px solid #ccc;
+    border-left: none;
+    height: 300px;
+	width:100%;
+}
+.clearclass{
+	clear: both;
+}
+.col-4-pad{
+	padding:0;
+}
+.sub-menu{
+	padding:10px;
+	background:#fff;
+}
+.sub-menu li{
+	padding:10px 10px 10px 30px;
+}
+#icon a,p{
+	display:inline;
+}
+.face:hover{
+	color:#3e5b98;
+}
+.twit:hover{
+	color:#4da7de;
+}
+.linkedin:hover{
+	color:#3371b7;
+}
+.rssfeed:hover{
+	color:#f26109;
+}
+#recent_projects p{
+	display:block;
+	width:100%;
+}
