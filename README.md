@@ -33,7 +33,7 @@ This are the screentshots of this theme
 ![widgest](https://user-images.githubusercontent.com/18563323/52856959-c04b9d80-314b-11e9-8db4-49f9236d2bd2.png)
 
 ### Carousul Bootstrap Slider
-![carousulsection](https://user-images.githubusercontent.com/18563323/52856986-d3f70400-314b-11e9-84bd-e79cf00a0c96.png)
+![slide](https://user-images.githubusercontent.com/18563323/52857432-27b61d00-314d-11e9-8258-d8a7003377c7.PNG)
 
 ### Child Pages 
 ![childpages](https://user-images.githubusercontent.com/18563323/52857007-e113f300-314b-11e9-96a9-c4cca23785c2.png)
