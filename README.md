@@ -1,20 +1,26 @@
 # RTCampWordPress-Engineer-Assignment
 
 
-# The theme I used here is _score which you can find here if you want:
+## The theme I used here is _score which you can find here if you want:
 https://underscores.me/
 
-# The plugins I used for this assignment are: 
+## Features provided by this theme :
+* Responsive layout design
+* Custom header options
+* Custom Slider options
+* Child pages  options
+* Custom footer widget areas options
+* Custom footer options
 
 
-# The images I used are either copyrighted by the following and are obtained by open source license or Creative Commons Zero License
+## The images I used are either copyrighted by the following and are obtained by open source license or Creative Commons Zero License
 1)  rtCamp Solutions Pvt. Ltd.
 2)  Pexels http://www.pexels.com
 
-# The theme is constructed as per the requirement by the rtCamp Company under Wordpress engineer Assignment: 
+## The theme is constructed as per the requirement by the rtCamp Company under Wordpress engineer Assignment: 
 https://careers.rtcamp.com/wordpress-engineer/assignment/
 
-# The demo for this theme can be found here:
+## The demo for this theme can be found here:
 
 
 This are the screentshots of this theme
