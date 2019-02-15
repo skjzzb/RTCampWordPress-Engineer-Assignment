@@ -1,7 +1,7 @@
 # RTCampWordPress-Engineer-Assignment
 
 
-## The theme I used here is _score which you can find here if you want:
+## The theme I used here starter theme for this challenge
 https://underscores.me/
 
 ## Features provided by this theme :
@@ -13,9 +13,10 @@ https://underscores.me/
 * Custom footer options
 
 
-## The images I used are either copyrighted by the following and are obtained by open source license or Creative Commons Zero License
-1)  rtCamp Solutions Pvt. Ltd.
-2)  Pexels http://www.pexels.com
+## The plugins I used for this assignment are: 
+Recent posts by category widget
+To install this you need to install the following plugin from here:
+https://wordpress.org/plugins/recent-posts-by-category-widget/
 
 ## The theme is constructed as per the requirement by the rtCamp Company under Wordpress engineer Assignment: 
 https://careers.rtcamp.com/wordpress-engineer/assignment/
