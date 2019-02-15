@@ -19,11 +19,15 @@ https://careers.rtcamp.com/wordpress-engineer/assignment/
 
 This are the screentshots of this theme
 
-![Alt text](![fullpage](https://user-images.githubusercontent.com/18563323/52856748-40253800-314b-11e9-80c7-e7cad655623e.png)
-Screen one
+![fullpage](https://user-images.githubusercontent.com/18563323/52856748-40253800-314b-11e9-80c7-e7cad655623e.png)
 
-![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/2.PNG "Screen two")
-Screen two
+![menus](https://user-images.githubusercontent.com/18563323/52856833-7d89c580-314b-11e9-9d12-5c9326936357.png"Screen two")
 
-![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/3.PNG "Screen three")
-Screen three
+![one](https://user-images.githubusercontent.com/18563323/52856887-9db98480-314b-11e9-92b9-be817b7ef7db.png)
+
+![widgest](https://user-images.githubusercontent.com/18563323/52856959-c04b9d80-314b-11e9-8db4-49f9236d2bd2.png)
+
+![carousulsection](https://user-images.githubusercontent.com/18563323/52856986-d3f70400-314b-11e9-84bd-e79cf00a0c96.png)
+
+![childpages](https://user-images.githubusercontent.com/18563323/52857007-e113f300-314b-11e9-96a9-c4cca23785c2.png)
+
