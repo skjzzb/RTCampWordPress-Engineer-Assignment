@@ -26,6 +26,8 @@
 ## Demo link of this Theme 
 http://www.rtcampsaurabh.epizy.com/
 
+It will take few Sec
+
 ## Screenshots Theme 
 
 ### Main Home Page
