@@ -19,7 +19,7 @@ https://careers.rtcamp.com/wordpress-engineer/assignment/
 
 This are the screentshots of this theme
 
-![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/1.PNG "Screen one")
+![Alt text](![fullpage](https://user-images.githubusercontent.com/18563323/52856748-40253800-314b-11e9-80c7-e7cad655623e.png)
 Screen one
 
 ![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/2.PNG "Screen two")
