@@ -10,21 +10,22 @@
 ## Some Features Provided By This Theme :
 * Responsive design 
 * Custom header options
-* Slider options
+* Post Slider options
 * Child Pages by Catagory 
 * Footer widget areas options
 * Footer options
 
 ## Used Plugins
-* Recent posts by category widget To install this you need to install the following plugin from here: https://wordpress.org/plugins/recent-posts-by-category-widget
+* Recent posts widget extended by category widget To install this you need to install the following plugin from here: https://wordpress.org/plugins/recent-posts-widget-extended
+* 
 
 ## List of Important 3rd party files
 * Jquery
-* Bootstrap
+* Slippry Slider
 * font-awesome
 
 ## Demo link of this Theme 
-http://www.rtcampsaurabh.epizy.com/
+http://www.rtcampskj07.epizy.com/
 
 It will take few Sec
 
@@ -32,19 +33,19 @@ It will take few Sec
 
 ### Main Home Page
 
-![fullpage](https://user-images.githubusercontent.com/18563323/52870532-192c2d80-316e-11e9-8151-15162c98133e.png)
+![full](https://user-images.githubusercontent.com/18563323/53195079-e46f1900-363a-11e9-82e1-49592b7841f3.png)
 
 ### Menu Options
-![menus](https://user-images.githubusercontent.com/18563323/52870534-192c2d80-316e-11e9-9971-f7a757fc7f62.png)
+![menuf](https://user-images.githubusercontent.com/18563323/53195160-12ecf400-363b-11e9-9d27-d626220c5de7.png)
 
 ### Customization Options
-![one](https://user-images.githubusercontent.com/18563323/52870535-19c4c400-316e-11e9-9456-b3e0013940ff.png)
+![coustomize](https://user-images.githubusercontent.com/18563323/53195205-33b54980-363b-11e9-9426-eddb0e48bcd3.png)
 
-### Bootstrap Carousel Slider
-![slide](https://user-images.githubusercontent.com/18563323/52870536-19c4c400-316e-11e9-9718-abf383f5a5b3.PNG)
+### Post Slider
+![postslider](https://user-images.githubusercontent.com/18563323/53195269-4fb8eb00-363b-11e9-903e-5a5426c62238.png)
 
 ### Widgets Used
-![widgest](https://user-images.githubusercontent.com/18563323/52870541-1b8e8780-316e-11e9-96da-bbc2a735e3c2.png)
+![widgets](https://user-images.githubusercontent.com/18563323/53195308-65c6ab80-363b-11e9-874a-e7716dcce226.png)
 
 ### Child Pages option 
-![childpages](https://user-images.githubusercontent.com/18563323/52870543-1c271e00-316e-11e9-8bb6-0969564822e6.png)
+![chidpages](https://user-images.githubusercontent.com/18563323/53195357-82fb7a00-363b-11e9-837a-28aed701a80b.png)
