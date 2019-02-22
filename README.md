@@ -29,7 +29,7 @@
 
 http://www.rtcampsaurabh.rf.gd
 
-It will take few Sec
+It will take few Sec.
 
 ## Screenshots Theme 
 
