@@ -21,11 +21,6 @@ This is the simple challenge assignment of rt_camp
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-== Frequently Asked Questions ==
-
-= Does this theme support any plugins? =
-
-rt_simple includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
