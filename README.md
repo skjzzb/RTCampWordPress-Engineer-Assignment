@@ -8,16 +8,17 @@
  https://underscores.me/
 
 ## Some Features Provided By This Theme :
-* Responsive design 
+* Responsive design for Mobile
 * Custom header options
 * Post Slider options
 * Child Pages by Catagory 
 * Footer widget areas options
 * Footer options
 
+
 ## Used Plugins
 * Recent posts widget extended by category widget To install this you need to install the following plugin from here: https://wordpress.org/plugins/recent-posts-widget-extended
-* 
+
 
 ## List of Important 3rd party files
 * Jquery
@@ -49,3 +50,6 @@ It will take few Sec
 
 ### Child Pages option 
 ![chidpages](https://user-images.githubusercontent.com/18563323/53195357-82fb7a00-363b-11e9-837a-28aed701a80b.png)
+
+### Responsive Mobile View
+![mobile view](https://user-images.githubusercontent.com/18563323/53220990-51ab9a00-368d-11e9-8171-9a17df3812e3.png)
