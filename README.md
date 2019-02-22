@@ -26,7 +26,8 @@
 * font-awesome
 
 ## Demo link of this Theme 
-http://www.rtcampskj07.epizy.com/
+
+http://www.rtcampsaurabh.rf.gd
 
 It will take few Sec
 
