@@ -21,8 +21,7 @@
 
 
 ## List of Important 3rd party files
-* Jquery
-* Slippry Slider
+* Slippry Post Slider
 * font-awesome
 
 ## Demo link of this Theme 
