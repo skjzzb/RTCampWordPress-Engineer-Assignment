@@ -532,6 +532,16 @@ ul.rpwe-ul,
     	padding: 0px;
     }
 /*----- Header -----*/
+.main-navigation ul ul a{
+
+	display: inline-table;
+    border-bottom: 1px solid #fff;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+
+
+	}
 	.main-navigation {
 		padding: 0;
 	}
@@ -547,20 +557,29 @@ ul.rpwe-ul,
     	justify-content: center;
     }
     .main-navigation li a {
-    	font-size: 11px;
+    	font-size: 20px;
+    	line-height: 40px;
+    	border-bottom: 1px solid #fff;
     }
     .site-header {
-    	background-image: none;
-    	margin: 0;
-    	padding-top: 20px;
+    	background-image: url(../images/header-bg.jpg);
+		margin: 0;
+		padding-top: 20px;
+		background-size: cover;
     }
-     .menu-toggle {
-    	margin: 0px;
-    	margin-bottom: 0;
-    	font-size: 15px;
-    	width: 20%;
-    	float: right;
-    }
+    .menu-toggle {
+	background: url(../images/menu-icon.png) no-repeat;
+	background-color: transparent;
+	cursor: pointer;
+	/* margin: 0px; */
+	margin-bottom: 0;
+	font-size: 15px;
+	width: 34px;
+	float: right;
+	text-indent: -9999px;
+	background-position: inherit;
+	height: 34px;
+}
 /*----- Post Slider -----*/
 	.slider-inner {
 		padding-left: 20px;
@@ -609,18 +628,30 @@ ul.rpwe-ul,
 	}
 	.sy-controls li.sy-next {
 	    transform: rotate(270deg);
-	    left: 72%;
+	    left: 70%;
 	    right: 2%;
 	    top: 86%; 
 	}
 	.sy-controls li a {
-		display: none;
+		
+		
+	position: relative;
+	width: 10px;
+	height: 20px;
+	display: inline;
+	/* text-indent: -9999px; */
+	opacity: 0;
+	margin: 0;
+	padding: 0;
+
+
+
 	}
 	/*----- List Bullets ----- */
 	.sy-pager {
 	  	transform: rotate(0deg);
 	    margin-top: -25px;
-	    margin-left: 37%;
+	    margin-left: 35%;
 	} 
 /*----- Child Pages -----*/
 	.child-pages-container {
@@ -687,7 +718,10 @@ ul.rpwe-ul,
 		
 	}
 	.footer-area {
-		background-image: none;
+
+		background-image: url(../images/footer-bg.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;		
 	}
 	.footer-logo {
 		display: block;
