@@ -52,4 +52,4 @@ It will take few Sec.
 ![chidpages](https://user-images.githubusercontent.com/18563323/53195357-82fb7a00-363b-11e9-837a-28aed701a80b.png)
 
 ### Responsive Mobile View
-![mobile view](https://user-images.githubusercontent.com/18563323/53220990-51ab9a00-368d-11e9-8171-9a17df3812e3.png)
+![mobile view](https://user-images.githubusercontent.com/18563323/53415475-5c509100-39f7-11e9-87f0-b758bc002cb2.png)
