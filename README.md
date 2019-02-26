@@ -52,4 +52,5 @@ It will take few Sec.
 ![chidpages](https://user-images.githubusercontent.com/18563323/53195357-82fb7a00-363b-11e9-837a-28aed701a80b.png)
 
 ### Responsive Mobile View
-![mobile view](https://user-images.githubusercontent.com/18563323/53415475-5c509100-39f7-11e9-87f0-b758bc002cb2.png)
+![mobile view](https://user-images.githubusercontent.com/18563323/53415475-5c509100-39f7-11e9-87f0-b758bc002cb2.png)![menuviewmobile](https://user-images.githubusercontent.com/18563323/53415646-bf422800-39f7-11e9-8a99-ff7370630f7f.png)
+
