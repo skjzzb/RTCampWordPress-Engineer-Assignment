@@ -57,6 +57,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 html {
 	line-height: 1.15; /* 1 */
 	-webkit-text-size-adjust: 100%; /* 2 */
+	-webkit-tap-highlight-color: transparent;
 }
 
 /* Sections
@@ -622,11 +623,15 @@ a:visited {
 }
 
 a:hover, a:focus, a:active {
-	color: midnightblue;
+	background-image: none;
+  outline: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+	
 }
 
 a:focus {
-	outline: thin dotted;
+	outline: none;
 }
 
 a:hover, a:active {
@@ -671,6 +676,7 @@ a:hover, a:active {
 
 .main-navigation ul ul a {
 	width: 200px;
+	height: 26px;
 }
 
 .main-navigation ul li:hover > ul,
